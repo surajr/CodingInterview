@@ -8,6 +8,6 @@
 
 
 ## Bit Manipulation
-| Website 		| Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|---------------- |---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
- | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/single-number.cpp) [Python](./Python/) | _O(2^n)_       | _O(1)_          |         |||
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    | Tag          | Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |--------------|-----|
+ | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/single-number.cpp) [Python](./Python/) | _O(2^n)_       | _O(1)_          |         |        |         |
