@@ -1,4 +1,4 @@
-# CodingInterview
+# Coding Interview
 
 ## Algorithms
 
