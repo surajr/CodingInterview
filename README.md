@@ -1,6 +1,7 @@
 # Coding Interview
 
 I just started adding problems. Stay tuned for 10 days to get more problems.
+07/31 - I'm back. I'll start working on this from now.
 
 ### Why you should follow this repository?
 
