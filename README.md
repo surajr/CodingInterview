@@ -40,3 +40,4 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [53. Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./java/MaximumSumSubArray.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java) \| [Python](./Python/) | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
