@@ -15,6 +15,7 @@ Feel free to add issues, comment and pull request.
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
 * [Array](https://github.com/surajr/CodingInterview#array)
 * [String](https://github.com/surajr/CodingInterview#string)
+* [Dynamic-Programming](https://github.com/surajr/CodingInterview#Dynamic-Programming#string)
 
 
 ## Bit Manipulation
