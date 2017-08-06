@@ -29,6 +29,7 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./java/reverseWords.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java) \| [Python](./Python/) | _O(n^2)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -42,3 +43,9 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java) \| [Python](./Python/) | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
+
+
+## Recursion
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/654. Maximum Binary Tree) \| [Python](./Python/) | _O(n log n)_       | _O(n)_          |  Easy       |         |
