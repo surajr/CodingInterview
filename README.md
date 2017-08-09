@@ -28,6 +28,7 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./java/CanPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/)findMaxAverage.java \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
