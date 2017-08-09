@@ -13,7 +13,7 @@ Feel free to add issues, comment and pull request.
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
-* [Array](https://github.com/surajr/CodingInterview#array)
+* [Arrays](https://github.com/surajr/CodingInterview#arrays)
 * [String](https://github.com/surajr/CodingInterview#string)
 * [Dynamic-Programming](https://github.com/surajr/CodingInterview#Dynamic-Programming#string)
 
@@ -22,6 +22,12 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java) \| [Python](./Python/) | _O(2^n)_       | _O(1)_          |  Medium       |         |
+
+
+## Arrays
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./java/CanPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
