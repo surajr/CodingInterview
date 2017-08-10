@@ -31,7 +31,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/findMaxAverage.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Java](./java/canPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/ | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
