@@ -29,6 +29,10 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./java/CanPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/findMaxAverage.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Java](./java/canPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+
 
 
 ## Strings
@@ -42,6 +46,11 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+
+## Trees
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
