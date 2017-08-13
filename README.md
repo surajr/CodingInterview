@@ -16,12 +16,14 @@ Feel free to add issues, comment and pull request.
 * [Arrays](https://github.com/surajr/CodingInterview#arrays)
 * [String](https://github.com/surajr/CodingInterview#string)
 * [Dynamic-Programming](https://github.com/surajr/CodingInterview#Dynamic-Programming#string)
+* [Depth First Search](https://github.com/surajr/CodingInterview#depth-first-search)
 
 
 ## Bit Manipulation
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java) \| [Python](./Python/) | _O(2^n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Java](./java/hammingDistance.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Arrays
@@ -32,6 +34,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Java](./java/canPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./java/arrayPairSum.java) \| [Python](./Python/) | _O(nlogn)_       | _O(1)_          |  Easy       |         |
 
 
 
@@ -51,6 +54,7 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./java/mergeTrees.java) \| [Python](./Python/) | _O(mn)_       | _O(1)_          |  Easy       |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -65,3 +69,9 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java) \| [Python](./Python/) | _O(n log n)_       | _O(n)_          |  Easy       |         |
+
+
+## Recursion
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [Java](./java/depthSum.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Easy       |         |
