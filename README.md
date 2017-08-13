@@ -44,6 +44,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./java/reverseWords.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java) \| [Python](./Python/) | _O(n^2)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
