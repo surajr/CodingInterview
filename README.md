@@ -45,17 +45,25 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java) \| [Python](./Python/) | _O(n^2)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [293. Flip Game](https://leetcode.com/problems/flip-game/description/ | [Java](./java/generatePossibleNextMoves.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Java](./java/shouldPrintMessage.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+
+
 
 ## Trees
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./java/mergeTrees.java) \| [Python](./Python/) | _O(mn)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./java/averageOfLevels.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
