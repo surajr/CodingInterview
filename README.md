@@ -46,6 +46,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java) \| [Python](./Python/) | _O(n^2)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [293. Flip Game](https://leetcode.com/problems/flip-game/description/) | [Java](./java/generatePossibleNextMoves.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
