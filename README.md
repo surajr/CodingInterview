@@ -65,6 +65,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./java/mergeTrees.java) \| [Python](./Python/) | _O(mn)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./java/averageOfLevels.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java) \| [Python](./Python/) |        |           |  Medium       |         |
+| Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java) \| [Python](./Python/) |        |           |  Medium       |         |
 
 
 ## Dynamic Programming
