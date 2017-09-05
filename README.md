@@ -35,6 +35,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Java](./java/canPlaceFlowers.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./java/arrayPairSum.java) \| [Python](./Python/) | _O(nlogn)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O()_       | _O()_          |  Medium       |         |
 
 
 
@@ -88,3 +89,10 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [Java](./java/depthSum.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Easy       |         |
+
+
+## Heaps
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Java](./java/leastInterval.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium       |         |
+
