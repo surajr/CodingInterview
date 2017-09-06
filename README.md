@@ -57,7 +57,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Java](./java/shouldPrintMessage.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
-
+| Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Medium      |         |
 
 
 ## Trees
