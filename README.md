@@ -49,6 +49,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [293. Flip Game](https://leetcode.com/problems/flip-game/description/) | [Java](./java/generatePossibleNextMoves.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
+| Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
+
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -95,4 +97,10 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Java](./java/leastInterval.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium       |         |
+
+
+## Binary Search
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java) \| [Python](./Python/) | _O(logn)_       | _O(1)_          |  Easy       |         |
 
