@@ -104,3 +104,10 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java) \| [Python](./Python/) | _O(logn)_       | _O(1)_          |  Easy       |         |
 
+
+## Queue
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Java](./java/MyStack.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+
+
