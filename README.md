@@ -25,6 +25,7 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java) \| [Python](./Python/) | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Java](./java/hammingDistance.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Java](./java/countBits.java) \| [Python](./Python/) | _O(nk)_       | _O(n)_          |  Medium       |         |
 
 
 ## Arrays
@@ -86,6 +87,7 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java) \| [Python](./Python/) | _O(n log n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java) \| [Python](./Python/) | _O()_       | _O(n)_          |  Medium       |         |
 
 
 ## Recursion
