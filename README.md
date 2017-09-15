@@ -73,6 +73,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java) \| [Python](./Python/) |        |           |  Medium       |         |
 | Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java) \| [Python](./Python/) |        |           |  Medium       |         |
 | Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java) \| [Python](./Python/) |   O(n)     |   O(d)        |  Medium       |         |
+| Leetcode  | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Java](./java/tree2str.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 
 
 ## Dynamic Programming
@@ -82,6 +83,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java) \| [Python](./Python/) | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
+| Leetcode  | [62. Unique Paths](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
