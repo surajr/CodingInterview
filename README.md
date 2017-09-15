@@ -72,6 +72,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./java/averageOfLevels.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java) \| [Python](./Python/) |        |           |  Medium       |         |
 | Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java) \| [Python](./Python/) |        |           |  Medium       |         |
+| Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java) \| [Python](./Python/) |   O(n)     |   O(d)        |  Medium       |         |
 
 
 ## Dynamic Programming
