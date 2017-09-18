@@ -18,6 +18,7 @@ Feel free to add issues, comment and pull request.
 * [Dynamic-Programming](https://github.com/surajr/CodingInterview#Dynamic-Programming#string)
 * [Depth First Search](https://github.com/surajr/CodingInterview#depth-first-search)
 * [LinkedList](https://github.com/surajr/CodingInterview#linkedlist)
+* [TwoPointers](https://github.com/surajr/CodingInterview#twopointers)
 
 
 ## Bit Manipulation
@@ -124,4 +125,9 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Medium       |         |
 
+
+## TwoPointers
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./java/validPalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
