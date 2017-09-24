@@ -85,6 +85,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java) \| [Python](./Python/) | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
