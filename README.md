@@ -78,6 +78,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java) \| [Python](./Python/) |   O(n)     |   O(d)        |  Medium       |         |
 | Leetcode  | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Java](./java/tree2str.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -114,6 +116,11 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java) \| [Python](./Python/) | _O(logn)_       | _O(1)_          |  Easy       |         |
+
+## Stack
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Queue
