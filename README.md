@@ -39,6 +39,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./java/arrayPairSum.java) \| [Python](./Python/) | _O(nlogn)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O()_       | _O()_          |  Medium       |         |
+| Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
@@ -75,7 +77,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java) \| [Python](./Python/) |        |           |  Medium       |         |
 | Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java) \| [Python](./Python/) |   O(n)     |   O(d)        |  Medium       |         |
 | Leetcode  | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Java](./java/tree2str.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
-
+| Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -86,6 +88,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java) \| [Python](./Python/) | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./java/nthUglyNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
@@ -125,10 +128,16 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./java/validPalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+
+## BFS
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./java/getImportance.java) \| [Python](./Python/) | _O(v+e)_       | _O(1)_          |  Easy       |         |
 
