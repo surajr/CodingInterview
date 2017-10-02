@@ -59,6 +59,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
