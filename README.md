@@ -27,6 +27,8 @@ Feel free to add issues, comment and pull request.
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java) \| [Python](./Python/) | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Java](./java/hammingDistance.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Java](./java/countBits.java) \| [Python](./Python/) | _O(nk)_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Java](./java/reverseBits.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./java/hammingWeight.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Arrays
@@ -41,6 +43,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java) \| [Python](./Python/) | _O()_       | _O()_          |  Medium       |         |
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
@@ -64,6 +67,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Medium      |         |
+| Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium      |         |
 
 
 ## Trees
@@ -79,6 +83,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -90,6 +95,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./java/nthUglyNumber.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./java/rob.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
@@ -135,7 +141,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
-
+| Leetcode  | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./java/removeElements.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
