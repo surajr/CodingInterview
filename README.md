@@ -44,6 +44,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Java](./java/matrixReshape.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
 
 
 
