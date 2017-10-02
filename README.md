@@ -58,6 +58,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -126,6 +127,7 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java) \| [Python](./Python/) | _O(mn)_       | _O(m+n)_          |  Easy       |         |
 
 
 ## Queue
@@ -142,6 +144,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./java/removeElements.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](./java/deleteNode.java) \| [Python](./Python/) | _O(1)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./java/reverseList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
