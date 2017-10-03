@@ -88,7 +88,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java) \| [Python](./Python/) |   O(m2 + n2 + mn)     |   O(max(m,n)        |  Easy      |         |
+| Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java) \| [Python](./Python/) |   O(m2+n2+mn)     |   O(max(m,n)        |  Easy      |         |
 | Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
