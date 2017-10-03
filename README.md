@@ -66,6 +66,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Java](./java/isIsomorphic.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
