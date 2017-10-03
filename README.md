@@ -45,6 +45,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Java](./java/matrixReshape.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
+| Leetcode | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Java](./java/maxDistance.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
 
 
 
@@ -71,6 +72,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Medium      |         |
 | Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium      |         |
+| Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 
 
 ## Trees
@@ -87,6 +89,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java) \| [Python](./Python/) |   O(m2 + n2 + mn)     |   O(max(m,n)        |  Easy      |         |
+| Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
