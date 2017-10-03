@@ -28,6 +28,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Java](./java/countBits.java) \| [Python](./Python/) | _O(nk)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Java](./java/reverseBits.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./java/hammingWeight.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [Java](./java/readBinaryWatch.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Arrays
@@ -45,6 +46,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Java](./java/matrixReshape.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
 | Leetcode | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Java](./java/maxDistance.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
+| Leetcode | [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Java](./java/maxCount.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
@@ -61,6 +64,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Java](./java/isIsomorphic.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -72,6 +77,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java) \| [Python](./Python/) | _O( )_       | _O( )_          |  Medium      |         |
 | Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 
 
 ## Trees
@@ -90,6 +96,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java) \| [Python](./Python/) |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java) \| [Python](./Python/) |   O(m2+n2+mn)     |   O(max(m,n)        |  Easy      |         |
 | Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
+| Leetcode  | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](./java/getMinimumDifference.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
