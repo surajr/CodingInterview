@@ -49,7 +49,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Java](./java/maxCount.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
-
+| Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java) \| [Python](./Python/) | _O(m+n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
@@ -68,6 +69,11 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Java](./java/isIsomorphic.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [Java](./java/shortestDistance.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./java/reverseVowels.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./java/wordPattern.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
