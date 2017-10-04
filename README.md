@@ -48,6 +48,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Java](./java/maxDistance.java) \| [Python](./Python/) | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
 | Leetcode | [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Java](./java/maxCount.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
@@ -79,6 +80,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Java](./java/findRelativeRanks.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 
 
 ## Trees
