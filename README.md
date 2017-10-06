@@ -87,6 +87,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Java](./java/findRelativeRanks.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Trees
