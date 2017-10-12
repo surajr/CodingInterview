@@ -179,3 +179,10 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./java/getImportance.java) \| [Python](./Python/) | _O(v+e)_       | _O(1)_          |  Easy       |         |
 
+
+## SQL
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+
