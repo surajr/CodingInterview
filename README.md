@@ -52,6 +52,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java) \| [Python](./Python/) | _O(m+n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
@@ -77,6 +78,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./java/wordPattern.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./java/reverseWords1.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Java](./java/compareVersion.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
