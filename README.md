@@ -80,6 +80,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Java](./java/compareVersion.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./java/isAnagram.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
