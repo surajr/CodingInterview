@@ -116,6 +116,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java) \| [Python](./Python/) |   O(m2+n2+mn)     |   O(max(m,n)        |  Easy      |         |
 | Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
 | Leetcode  | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](./java/getMinimumDifference.java) \| [Python](./Python/) |   O(v + e)     |   O(1)        |  Easy      |         |
+| Leetcode  | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](./java/inorderTraversal.java) \| [Python](./Python/) |   O(n)     |   O(n)        |  Medium      |         |
+| Leetcode  | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./java/preorderTraversal.java) \| [Python](./Python/) |   O(n)     |   O(n)        |  Medium      |         |
 
 ## Dynamic Programming
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
