@@ -51,6 +51,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java) \| [Python](./Python/) | _O(m+n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
@@ -74,6 +75,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./java/reverseVowels.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./java/wordPattern.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./java/reverseWords1.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -88,6 +91,8 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Java](./java/findRelativeRanks.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./java/containsNearbyDuplicate.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](./java/fourSumCount.java) \| [Python](./Python/) | _O(n^2)_       | _O(n^2)_          |  Medium      |         |
 
 
 ## Trees
@@ -150,6 +155,7 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java) \| [Python](./Python/) | _O(mn)_       | _O(m+n)_          |  Easy       |         |
+| Leetcode  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./java/isValid.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 
 
 ## Queue
@@ -163,11 +169,15 @@ Feel free to add issues, comment and pull request.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium       |         |
-| Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java) \| [Python](./Python/) | _O(n logk)_       | _O(1)_          |  Hard      |         |
 | Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./java/removeElements.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](./java/deleteNode.java) \| [Python](./Python/) | _O(1)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./java/reverseList.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](./java/addTwoNumbers.java) \| [Python](./Python/) | _O(n+m)_       | _O(n+m)_          |  Medium       |         |
+| Leetcode  | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./java/mergeTwoLists.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Java](./java/swapPairs.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Medium      |         |
+
 
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -185,4 +195,5 @@ Feel free to add issues, comment and pull request.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 
