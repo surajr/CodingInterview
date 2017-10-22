@@ -156,7 +156,7 @@ Feel free to add issues, comment and pull request.
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java) \| [Python](./Python/) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java) \| [Python](./Python/) | _O(mn)_       | _O(m+n)_          |  Easy       |         |
 | Leetcode  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./java/isValid.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
-
+| Leetcode  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Java](./java/QueueUsingStacks.java) \| [Python](./Python/) | _O(n)_       | _O(n)_          |  Easy       |         |
 
 ## Queue
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
