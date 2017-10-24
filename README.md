@@ -1,14 +1,12 @@
 # Coding Interview
 
-Can someone help me with Python code? Feel free to create pull requests
-
 ### Why you should follow this repository?
 
-As a student I solved many leetcode problems but unable to identify the most efficient solution and this repo will help you with explanation.
+As a student I solved many leetcode problems but unable to identify the most efficient solution and this repo will help you with explanation and data structure wise questions. It's easy to access and time saver before the interview
 
 Often careercup contains buggy code and most inefficient algorithms. I try to add an effcient one with explanation in my own words. 
 
-Feel free to add issues, comment and pull request. 
+Feel free to add issues, create pull requests and be a contributer. 
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
