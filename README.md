@@ -12,11 +12,13 @@ Feel free to add issues, create pull requests and be a contributer.
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
 * [Arrays](https://github.com/surajr/CodingInterview#arrays)
 * [String](https://github.com/surajr/CodingInterview#string)
+* [HashMap](https://github.com/surajr/CodingInterview#hashmap)
+* [Trees](https://github.com/surajr/CodingInterview#trees)
 * [Dynamic-Programming](https://github.com/surajr/CodingInterview#Dynamic-Programming#string)
 * [Depth First Search](https://github.com/surajr/CodingInterview#depth-first-search)
 * [LinkedList](https://github.com/surajr/CodingInterview#linkedlist)
 * [TwoPointers](https://github.com/surajr/CodingInterview#twopointers)
-
+* [SQL](https://github.com/surajr/CodingInterview#sql)
 
 ## Bit Manipulation
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
