@@ -53,6 +53,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
