@@ -54,6 +54,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./java/numSubarrayProductLessThanK.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 
 ## Strings
