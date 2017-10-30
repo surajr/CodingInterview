@@ -1,4 +1,5 @@
 # Coding Interview
+# [LeetCode](https://leetcode.com/problemset/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/surajr)
 
 ### Why you should follow this repository?
 
