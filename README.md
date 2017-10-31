@@ -101,6 +101,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./java/containsNearbyDuplicate.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](./java/fourSumCount.java)  | _O(n^2)_       | _O(n^2)_          |  Medium      |         |
+| Leetcode  | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./java/majorityElement.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
 
 
 ## Trees
