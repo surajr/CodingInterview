@@ -56,6 +56,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./java/numSubarrayProductLessThanK.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## Strings
