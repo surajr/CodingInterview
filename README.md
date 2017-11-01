@@ -215,3 +215,4 @@ Feel free to add issues, create pull requests and be a contributer.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./java/insertInterval.java)  | _O(n)_       | _O(1)_          |  Hard       |         |
+| Leetcode  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](./java/sortColors.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
