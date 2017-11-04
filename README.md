@@ -93,18 +93,22 @@ Feel free to add issues, create pull requests and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
-| Leetcode  | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Java](./java/shouldPrintMessage.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
-| Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
-| Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
-| Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java)  | _O( )_       | _O( )_          |  Medium      |         |
-| Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
-| Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
-| Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
-| Leetcode  | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Java](./java/findRelativeRanks.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
-| Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
-| Leetcode  | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./java/containsNearbyDuplicate.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
-| Leetcode  | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](./java/fourSumCount.java)  | _O(n^2)_       | _O(n^2)_          |  Medium      |         |
 | Leetcode  | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./java/majorityElement.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
+| Leetcode  | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./java/containsNearbyDuplicate.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Java](./java/topKFrequent.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./java/shouldPrintMessage.java)  | _O(n)_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](./java/fourSumCount.java)  | _O(n^2)_       | _O(n^2)_          |  Medium      |         |
+| Leetcode  | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Java](./java/findRelativeRanks.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [Java](./java/FindMaxLength.java)  | _O( )_       | _O( )_          |  Medium      |         |
+| Leetcode  | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java](./java/findPairs.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
+| Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+
+
+
 
 
 ## Trees
@@ -149,14 +153,9 @@ Feel free to add issues, create pull requests and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O()_       | _O(n)_          |  Medium       |         |
-| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Java](./java/sortedListToBST.java)  | _O(n)_       | _O(logn)_          |  Medium       |         |
-| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java)  | _O(n log n)_       | _O(n)_          |  Easy       |         |
-
-
-## Recursion
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
-|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Java](./java/sortedListToBST.java)  | _O(n)_       | _O(logn)_          |  Medium       |         |
 | Leetcode  | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [Java](./java/depthSum.java)  | _O( )_       | _O( )_          |  Easy       |         |
+| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java)  | _O(n log n)_       | _O(n)_          |  Easy       |         |
 
 
 ## Heaps
