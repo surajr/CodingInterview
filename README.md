@@ -27,6 +27,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Java](./java/reverseBits.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./java/hammingWeight.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./java/singleNumber.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [Java](./java/readBinaryWatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Java](./java/hammingDistance.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Java](./java/countBits.java)  | _O(nk)_       | _O(n)_          |  Medium       |         |
