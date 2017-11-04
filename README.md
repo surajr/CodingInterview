@@ -108,32 +108,28 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
-
-
-
 ## Trees
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
-| Leetcode  | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./java/mergeTrees.java)  | _O(mn)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./java/averageOfLevels.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java)  |        |           |  Medium       |         |
-| Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java)  |        |           |  Medium       |         |
-| Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java)  |   O(n)     |   O(d)        |  Medium       |         |
-| Leetcode  | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Java](./java/tree2str.java)  |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java)  |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java)  |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java)  |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java)  |   O(n)     |   O(1)        |  Easy      |         |
-| Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java)  |   O(m2+n2+mn)     |   O(max(m,n)        |  Easy      |         |
-| Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java)  |   O(v + e)     |   O(1)        |  Easy      |         |
-| Leetcode  | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](./java/getMinimumDifference.java)  |   O(v + e)     |   O(1)        |  Easy      |         |
 | Leetcode  | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](./java/inorderTraversal.java)  |   O(n)     |   O(n)        |  Medium      |         |
+| Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java)  |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java)  |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java)  |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./java/preorderTraversal.java)  |   O(n)     |   O(n)        |  Medium      |         |
-| Leetcode  | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](./java/pathSumiii.java)  |   O(n)     |   O(1)        |  Easy     |         |
 | Leetcode  | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Java](./java/inorderSuccessor.java)  |   O(h)     |   O(1)        |  Medium    |         |
 | Leetcode  | [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Java](./java/longestConsecutive.java)  |   O(n)     |   O(n)        |  Medium    |         |
-
+| Leetcode  | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](./java/pathSumiii.java)  |   O(n)     |   O(1)        |  Easy     |         |
+| Leetcode  | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](./java/getMinimumDifference.java)  |   O(v + e)     |   O(1)        |  Easy      |         |
+| Leetcode  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Java](./java/diameterOfBinaryTree.java)  |   O(v + e)     |   O(1)        |  Easy      |         |
+| Leetcode  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./java/isSubtree.java)  |   O(m2+n2+mn)     |   O(max(m,n)        |  Easy      |         |
+| Leetcode  | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Java](./java/tree2str.java)  |   O(n)     |   O(1)        |  Easy      |         |
+| Leetcode  | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./java/mergeTrees.java)  | _O(mn)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Java](./java/addOneRow.java)  |        |           |  Medium       |         |
+| Leetcode  | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./java/averageOfLevels.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java)  |   O(n)     |   O(d)        |  Medium       |         |
+| Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java)  |        |           |  Medium       |         |
+| Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java)  |   O(n)     |   O(1)        |  Easy      |         |
 
 
 ## Dynamic Programming
