@@ -72,6 +72,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Java](./java/wordBreak.java)  | _O(n^2)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
