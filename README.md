@@ -148,8 +148,9 @@ Feel free to add issues, create pull requests and be a contributer.
 ## Recursion
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java)  | _O(n log n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O()_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Java](./java/sortedListToBST.java)  | _O(n)_       | _O(logn)_          |  Medium       |         |
+| Leetcode  | [654. Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/) | [Java](./java/ConstructMaximumBinaryTree.java)  | _O(n log n)_       | _O(n)_          |  Easy       |         |
 
 
 ## Recursion
