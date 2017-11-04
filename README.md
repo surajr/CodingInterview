@@ -35,59 +35,58 @@ Feel free to add issues, create pull requests and be a contributer.
 ## Arrays
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./java/CanPlaceFlowers.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/findMaxAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Java](./java/canPlaceFlowers.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./java/arrayPairSum.java)  | _O(nlogn)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java)  | _O()_       | _O()_          |  Medium       |         |
+| Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Java](./java/matrixReshape.java)  | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
-| Leetcode | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Java](./java/maxDistance.java)  | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
-| Leetcode | [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Java](./java/maxCount.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java)  | _O(m+n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./java/numSubarrayProductLessThanK.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java)  | _O(m+n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./java/arrayPairSum.java)  | _O(nlogn)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Java](./java/matrixReshape.java)  | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
+| Leetcode | [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Java](./java/maxCount.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./java/CanPlaceFlowers.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Java](./java/triangleNumber.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Java](./java/maxDistance.java)  | _O(m*n)_       | _O(m*n)_          |  Easy       |         |
+| Leetcode | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./java/maximumProduct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/findMaxAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./java/numSubarrayProductLessThanK.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 
 
 ## Strings
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./java/reverseWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
-| Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java)  | _O(n^2)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Java](./java/wordBreak.java)  | _O(n^2)_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./java/reverseWords1.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Java](./java/compareVersion.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Java](./java/isIsomorphic.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [Java](./java/isAnagram.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [Java](./java/shortestDistance.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./java/wordPattern.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [293. Flip Game](https://leetcode.com/problems/flip-game/description/) | [Java](./java/generatePossibleNextMoves.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./java/reverseVowels.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
-| Leetcode  | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Java](./java/convertToTitle.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Java](./java/wordBreak.java)  | _O(n^2)_       | _O(n)_          |  Medium       |         |
-| Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Java](./java/isIsomorphic.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [Java](./java/shortestDistance.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./java/reverseVowels.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Java](./java/wordPattern.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./java/reverseWords1.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Java](./java/compareVersion.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
-| Leetcode  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [Java](./java/isAnagram.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./java/reverseWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java)  | _O(n^2)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+
 
 ## HashMap
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -136,13 +135,13 @@ Feel free to add issues, create pull requests and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [53. Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./java/MaximumSumSubArray.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
-| Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java)  | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
-| Leetcode  | [62. Unique Paths](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
-| Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./java/rob.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
@@ -168,10 +167,10 @@ Feel free to add issues, create pull requests and be a contributer.
 ## Stack
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java)  | _O(mn)_       | _O(m+n)_          |  Easy       |         |
 | Leetcode  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./java/isValid.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Java](./java/QueueUsingStacks.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java)  | _O(mn)_       | _O(m+n)_          |  Easy       |         |
 
 ## Queue
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -210,10 +209,9 @@ Feel free to add issues, create pull requests and be a contributer.
 ## SQL
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-
 
 ## SORT
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
