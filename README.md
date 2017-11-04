@@ -186,16 +186,17 @@ Feel free to add issues, create pull requests and be a contributer.
 ## LinkedList
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
-| Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java)  | _O(n logk)_       | _O(1)_          |  Hard      |         |
-| Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./java/removeElements.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](./java/deleteNode.java)  | _O(1)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./java/reverseList.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](./java/addTwoNumbers.java)  | _O(n+m)_       | _O(n+m)_          |  Medium       |         |
 | Leetcode  | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./java/mergeTwoLists.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Java](./java/swapPairs.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode  | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Java](./java/mergeKLists.java)  | _O(n logk)_       | _O(1)_          |  Hard      |         |
+| Leetcode  | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./java/deleteDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Java](./java/deleteDuplicates.java)  | _O(nlogn)_       | _O(logn)_          |  Medium       |         |
+| Leetcode  | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](./java/removeElements.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](./java/reverseList.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](./java/deleteNode.java)  | _O(1)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Java](./java/isPalindromeList.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode  | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Java](./java/oddEvenList.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 
 ## TwoPointers
