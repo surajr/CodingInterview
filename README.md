@@ -200,6 +200,7 @@ Feel free to add issues, create pull requests and be a contributer.
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) | [Java](./java/findMaxConsecutiveOnes.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./java/validPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## BFS
@@ -215,7 +216,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 
-## SORT
+## Sort
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
