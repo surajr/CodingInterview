@@ -174,6 +174,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Java](./java/QueueUsingStacks.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java)  | _O(mn)_       | _O(m+n)_          |  Easy       |         |
+| Leetcode  | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | [Java](./java/nextGreaterElements.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 
 ## Queue
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
