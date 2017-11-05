@@ -82,6 +82,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [Java](./java/findLongestWord.java)  | _O(nk)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Java](./java/complexNumberMultiply.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](./java/reverseStr.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Java](./java/checkRecord.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
