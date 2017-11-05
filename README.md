@@ -57,6 +57,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./java/findMaxAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./java/findLengthOfLCIS.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./java/numSubarrayProductLessThanK.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [Java](./java/maxProfitWithFee.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 
 
