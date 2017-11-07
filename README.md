@@ -3,7 +3,7 @@
 
 ### Why you should follow this repository?
 
-As a student I solved many leetcode problems but unable to identify the most efficient solution and this repo will help you with explanation and data structure wise questions. It's easy to access and time saver before the interview
+As a student I solved many leetcode problems but unable to identify the most efficient solution and this repo will help you with explanation and data structure wise questions. It's easy to access and time saver before the interview.
 
 Often careercup contains buggy code and most inefficient algorithms. I try to add an effcient one with explanation in my own words. 
 
