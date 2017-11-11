@@ -79,6 +79,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Java](./java/licenseKeyFormatting.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Java](./java/findLUSlength.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
