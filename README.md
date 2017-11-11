@@ -43,7 +43,6 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java)  | _O(m+n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Java](./java/findDuplicates.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -182,6 +181,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Java](./java/MyStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 
