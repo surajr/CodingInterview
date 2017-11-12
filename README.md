@@ -166,6 +166,7 @@ Feel free to add issues, create pull requests and be a contributer.
 ## Binary Search
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [Java](./java/minMeetingRooms.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java)  | _O(logn)_       | _O(1)_          |  Easy       |         |
 
 ## Stack
