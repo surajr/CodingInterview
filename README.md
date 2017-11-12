@@ -141,6 +141,7 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [53. Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./java/MaximumSumSubArray.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java)  | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
 | Leetcode  | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Java](./java/numDecodings.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/MaximumProductSubArray.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./java/rob.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
