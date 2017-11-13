@@ -221,16 +221,19 @@ Feel free to add issues, create pull requests and be a contributer.
 | Leetcode  | [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./java/getImportance.java)  | _O(v+e)_       | _O(1)_          |  Easy       |         |
 
 
-## SQL
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
-|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
-| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-
 ## Sort
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./java/insertInterval.java)  | _O(n)_       | _O(1)_          |  Hard       |         |
 | Leetcode  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](./java/sortColors.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+
+
+
+## SQL
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [597. Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | [SQL](./sql/FriendRequests1.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
