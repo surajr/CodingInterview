@@ -7,7 +7,7 @@ As a student I solved many leetcode problems but unable to identify the most eff
 
 Often careercup contains buggy code and most inefficient algorithms. I try to add an effcient one with explanation in my own words. 
 
-Feel free to add issues, create pull requests and be a contributer. 
+Feel free to submit pull requests, add issues and be a contributer. 
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
