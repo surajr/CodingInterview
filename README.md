@@ -19,6 +19,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 * [Depth First Search](https://github.com/surajr/CodingInterview#depth-first-search)
 * [LinkedList](https://github.com/surajr/CodingInterview#linkedlist)
 * [TwoPointers](https://github.com/surajr/CodingInterview#twopointers)
+* [Math](https://github.com/surajr/CodingInterview#math)
 * [SQL](https://github.com/surajr/CodingInterview#sql)
 
 ## Bit Manipulation
@@ -234,9 +235,13 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./java/insertInterval.java)  | _O(n)_       | _O(1)_          |  Hard       |         |
 | Leetcode  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](./java/sortColors.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [Java](./java/insertionSortList.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [Java](./java/largestNumber.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 
-
+## Math
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+|---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [Java](./java/bulbSwitch.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 ## SQL
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
