@@ -25,6 +25,8 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/) | [Java](./java/singleNumberii.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Java](./java/reverseBits.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./java/hammingWeight.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Java](./java/singleNumber.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
@@ -64,6 +66,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 ## Strings
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./java/ZigZag.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Java](./java/wordBreak.java)  | _O(n^2)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./java/reverseWords1.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -120,6 +123,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java)  |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java)  |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./java/preorderTraversal.java)  |   O(n)     |   O(n)        |  Medium      |         |
+| Leetcode  | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [Java](./java/containsNearbyAlmostDuplicate.java)  |   O(nlogk)     |   O(k)        |  Medium      |         |
 | Leetcode  | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Java](./java/inorderSuccessor.java)  |   O(h)     |   O(1)        |  Medium    |         |
 | Leetcode  | [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Java](./java/longestConsecutive.java)  |   O(n)     |   O(n)        |  Medium    |         |
 | Leetcode  | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Java](./java/verticalOrder.java)  |   O(n)     |   O(n)        |  Medium    |         |
@@ -178,6 +182,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./java/isValid.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Java](./java/QueueUsingStacks.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
+| Leetcode  | [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | [Java](./java/lengthLongestPath.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](./java/nextGreaterElement.java)  | _O(mn)_       | _O(m+n)_          |  Easy       |         |
 | Leetcode  | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | [Java](./java/nextGreaterElements.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 
@@ -208,6 +213,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 ## TwoPointers
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./java/maxArea.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Java](./java/minSubArrayLen.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [Java](./java/threeSumSmaller.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [Java](./java/sortTransformedArray.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
