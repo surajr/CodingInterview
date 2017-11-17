@@ -175,6 +175,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [Java](./java/minMeetingRooms.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java)  | _O(logn)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Java](./java/singleNonDuplicate.java)  | _O(logn)_       | _O(1)_          |  Medium      |         |
 
 ## Stack
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
@@ -233,6 +234,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./java/insertInterval.java)  | _O(n)_       | _O(1)_          |  Hard       |         |
 | Leetcode  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](./java/sortColors.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [Java](./java/largestNumber.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 
 
 
