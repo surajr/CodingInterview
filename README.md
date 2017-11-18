@@ -43,6 +43,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [120. Triangle](https://leetcode.com/problems/triangle/description/) | [Java](./java/minimumTotal.java)  | _O(m*n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -159,6 +160,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 ## Recursion
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](./java/generateParenthesis.java)  | _O(4^n)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O()_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Java](./java/sortedListToBST.java)  | _O(n)_       | _O(logn)_          |  Medium       |         |
 | Leetcode  | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [Java](./java/depthSum.java)  | _O( )_       | _O( )_          |  Easy       |         |
