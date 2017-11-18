@@ -94,6 +94,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [479. Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) | [Java](./java/largestPalindrome.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Java](./java/licenseKeyFormatting.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Java](./java/findWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Java](./java/detectCapitalUse.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -151,6 +152,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./java/widthOfBinaryTree.java)  |   O(n)     |   O(d)        |  Medium       |         |
 | Leetcode  | [663. Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) | [Java](./java/CheckEqualTrees.java)  |        |           |  Medium       |         |
+| Leetcode  | [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [Java](./java/MapSumii.java)  |   O(n)     |   O(1)        |  Medium      |  HashMap       |
 | Leetcode  | [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./java/longestUnivaluePath.java)  |   O(n)     |   O(1)        |  Easy      |         |
 
 
@@ -252,6 +254,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [Java](./java/insertionSortList.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [Java](./java/largestNumber.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) | [Java](./java/wiggleSort.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Java](./java/findUnsortedSubarray.java)  | _O(nlogn)_       | _O(n)_          |  Easy       |         |
 
 ## Math
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
