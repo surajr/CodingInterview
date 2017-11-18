@@ -41,6 +41,8 @@ Feel free to submit pull requests, add issues and be a contributer.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [46. Permutations](https://leetcode.com/problems/permutations/description/) | [Java](./java/permute.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
+| Leetcode | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Java](./java/permuteUnique.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Java](./java/subsets.java)  | _O(2^n)_       | _O(n)_          |  Medium       |         |
 | Leetcode | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Java](./java/subsetsWithDup.java)  | _O(2^n)_       | _O(n)_          |  Medium       |         |
