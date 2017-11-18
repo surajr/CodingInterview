@@ -42,6 +42,8 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](./java/plusOne.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Java](./java/subsets.java)  | _O(2^n)_       | _O(n)_          |  Medium       |         |
+| Leetcode | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Java](./java/subsetsWithDup.java)  | _O(2^n)_       | _O(n)_          |  Medium       |         |
 | Leetcode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./java/merge.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [120. Triangle](https://leetcode.com/problems/triangle/description/) | [Java](./java/minimumTotal.java)  | _O(m*n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -126,6 +128,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Java](./java/isBalanced.java)  |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java](./java/minDepth.java)  |   O(n)     |   O(1)        |  Easy      |         |
 | Leetcode  | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](./java/preorderTraversal.java)  |   O(n)     |   O(n)        |  Medium      |         |
+| Leetcode  | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Java](./java/BSTIterator.java)  |   O(1)     |   O(h)        |  Medium      |         |
 | Leetcode  | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [Java](./java/containsNearbyAlmostDuplicate.java)  |   O(nlogk)     |   O(k)        |  Medium      |         |
 | Leetcode  | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Java](./java/inorderSuccessor.java)  |   O(h)     |   O(1)        |  Medium    |         |
 | Leetcode  | [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Java](./java/longestConsecutive.java)  |   O(n)     |   O(n)        |  Medium    |         |
