@@ -27,6 +27,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Java](./java/grayCode.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/) | [Java](./java/singleNumberii.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Java](./java/reverseBits.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./java/hammingWeight.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -53,6 +54,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./java/maxProfit.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](./java/rotate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | [Java](./java/summaryRanges.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) | [Java](./java/sparseMultiply.java)  | _O(m*n*l)_       | _O(m*l)_          |  Medium       |         |
 | Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java)  | _O(m+n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -249,6 +251,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](./java/sortColors.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [Java](./java/insertionSortList.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [179. Largest Number](https://leetcode.com/problems/largest-number/description/) | [Java](./java/largestNumber.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) | [Java](./java/wiggleSort.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 ## Math
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
