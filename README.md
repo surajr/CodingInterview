@@ -244,6 +244,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 ## Math
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [Java](./java/computeArea.java)  | _O(1)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [Java](./java/bulbSwitch.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 
 ## SQL
