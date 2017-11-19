@@ -266,6 +266,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 ## SQL
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/) | [SQL](./sql/nth-highest-salary.sql) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [597. Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | [SQL](./sql/FriendRequests1.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
