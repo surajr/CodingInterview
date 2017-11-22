@@ -141,6 +141,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Java](./java/inorderSuccessor.java)  |   O(h)     |   O(1)        |  Medium    |         |
 | Leetcode  | [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Java](./java/longestConsecutive.java)  |   O(n)     |   O(n)        |  Medium    |         |
 | Leetcode  | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Java](./java/verticalOrder.java)  |   O(n)     |   O(n)        |  Medium    |         |
+| Leetcode  | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Java](./java/sumOfLeftLeaves.java)  |   O(n)     |   O(n)        |  Easy    |         |
 | Leetcode  | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](./java/pathSumiii.java)  |   O(n)     |   O(1)        |  Easy     |         |
 | Leetcode  | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Java](./java/findBottomLeftValue.java)  |   O(n^2)     |   O(1)        |  Medium     |         |
 | Leetcode  | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](./java/getMinimumDifference.java)  |   O(v + e)     |   O(1)        |  Easy      |         |
@@ -263,6 +264,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [204. Count Primes](https://leetcode.com/problems/count-primes/description/) | [Java](./java/countPrimes.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [Java](./java/computeArea.java)  | _O(1)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [Java](./java/bulbSwitch.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](./java/selfDividingNumbers.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## SQL
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
