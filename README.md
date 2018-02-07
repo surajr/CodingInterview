@@ -128,6 +128,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) | [Java](./java/Codec.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Java](./java/findLHS.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [677. Map Sum Pairs](https://leetcode.com/contest/leetcode-weekly-contest-50/problems/map-sum-pairs/) | [Java](./java/MapSum.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [Java](./java/anagramMappings.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Trees
@@ -174,6 +175,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [Java](./java/nthUglyNumber.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](./java/MaximumProduct.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Java](./java/findLongestChain.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode  | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Java](./java/minCostClimbingStairs.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 
 
 ## Recursion
