@@ -107,6 +107,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./java/reverseWords.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java)  | _O(n^2)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./java/numJewelsInStones.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 
 ## HashMap
