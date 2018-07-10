@@ -1,3 +1,20 @@
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        HashSet<Character> set = new HashSet<>();
+        int i=0, j=0, max=0;
+        while(j<s.length()){
+            if(set.contains(s.charAt(j)))
+                set.remove(s.charAt(i++));
+            else{
+                set.add(s.charAt(j++));
+                max = Math.max(max, set.size());
+            }
+        }
+        return max;
+    }
+}
+
+
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         Queue<Character> queue = new LinkedList<>();
