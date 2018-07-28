@@ -5,9 +5,9 @@
 
 As a student I solved many leetcode problems but unable to identify the most efficient solution and this repo will help you with explanation and data structure wise questions. It's easy to access and time saver before the interview.
 
-Often careercup contains buggy code and most inefficient algorithms. I try to add an effcient one with explanation in my own words. 
+Often careercup contains buggy code and most inefficient algorithms. I try to add an effcient one with explanation in my own words.
 
-Feel free to submit pull requests, add issues and be a contributer. 
+Feel free to submit pull requests, add issues and be a contributer.
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/Surajr/CodingInterview#bit-manipulation)
@@ -23,7 +23,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 * [SQL](https://github.com/surajr/CodingInterview#sql)
 
 ## Bit Manipulation
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Careercup  | [Permutation Casewise](https://www.careercup.com/question?id=6255535581036544) | [Java](./java/PermuteCasewise.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
@@ -38,7 +38,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Arrays
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -76,7 +76,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Strings
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Java](./java/ZigZag.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java](./java/isPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -111,7 +111,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## HashMap
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./java/majorityElement.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
@@ -132,7 +132,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Trees
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](./java/inorderTraversal.java)  |   O(n)     |   O(n)        |  Medium      |         |
 | Leetcode  | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](./java/isSymmetric.java)  |   O(n)     |   O(1)        |  Easy      |         |
@@ -163,7 +163,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Dynamic Programming
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [53. Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./java/MaximumSumSubArray.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./java/UniquePaths.java)  | _O(m*n)_       | _O(m+n)_          |  Easy      |         |
@@ -179,7 +179,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Recursion
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](./java/generateParenthesis.java)  | _O(4^n)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./java/myPow.java)  | _O()_       | _O(n)_          |  Medium       |         |
@@ -189,20 +189,21 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## Heaps
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
+| Leetcode  | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Java](./java/third-maximum-number.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Java](./java/leastInterval.java)  | _O(n)_       | _O(n)_          |  Medium       |         |
 
 
 ## Binary Search
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [Java](./java/minMeetingRooms.java)  | _O(nlogn)_       | _O(n)_          |  Medium       |         |
 | Leetcode  | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Java](./java/FirstBadVersion.java)  | _O(logn)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Java](./java/singleNonDuplicate.java)  | _O(logn)_       | _O(1)_          |  Medium      |         |
 
 ## Stack
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](./java/isValid.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Java](./java/MinStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -212,7 +213,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | [Java](./java/nextGreaterElements.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 
 ## Queue
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Java](./java/MyStack.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Java](./java/MovingAverage.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -220,7 +221,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## LinkedList
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](./java/addTwoNumbers.java)  | _O(n+m)_       | _O(n+m)_          |  Medium       |         |
 | Leetcode  | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./java/mergeTwoLists.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
@@ -237,7 +238,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 
 ## TwoPointers
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./java/maxArea.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Java](./java/minSubArrayLen.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
@@ -248,13 +249,13 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./java/validPalindrome.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## BFS
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./java/getImportance.java)  | _O(v+e)_       | _O(1)_          |  Easy       |         |
 
 
 ## Sort
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](./java/mergeInterval.java)  | _O(nlogn)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](./java/insertInterval.java)  | _O(n)_       | _O(1)_          |  Hard       |         |
@@ -265,7 +266,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Java](./java/findUnsortedSubarray.java)  | _O(nlogn)_       | _O(n)_          |  Easy       |         |
 
 ## Math
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [204. Count Primes](https://leetcode.com/problems/count-primes/description/) | [Java](./java/countPrimes.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [Java](./java/computeArea.java)  | _O(1)_       | _O(1)_          |  Medium       |         |
@@ -273,7 +274,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](./java/selfDividingNumbers.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 
 ## SQL
-| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note| 
+| Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode  | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/) | [SQL](./sql/nth-highest-salary.sql) | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
