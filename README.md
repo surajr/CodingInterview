@@ -99,6 +99,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./java/FirstUniqChar.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Java](./java/findTheDifference.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | [Java](./java/validWordAbbreviation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/discuss/89941/Java-easy-iterative-solution) | [Java](./java/fizzbuzz.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) | [Java](./java/validWordSquare.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [479. Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) | [Java](./java/largestPalindrome.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode  | [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Java](./java/licenseKeyFormatting.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
