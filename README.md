@@ -44,6 +44,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./java/3sum.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [Java](./java/threeSumClosest.java)  | _O(n^2)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./java/removeDuplicates2.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
+| Leetcode | [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](./java/removeElements2.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Java](./java/combinationSum.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Java](./java/combinationSumii.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
