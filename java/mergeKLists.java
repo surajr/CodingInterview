@@ -1,28 +1,33 @@
 //Divide and Conquer method
 
-public class Solution {
+class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) return null;
-        return sort(lists, 0, lists.length - 1);
+        return merge(lists, 0, lists.length-1);
     }
-    
-    private ListNode sort(ListNode[] lists, int lo, int hi) {
-        if (lo >= hi) return lists[lo];
-        int mid = lo + (hi - lo) / 2;
-        ListNode l1 = sort(lists, lo, mid);
-        ListNode l2 = sort(lists, mid + 1, hi);
-        return merge(l1, l2);
+
+    public ListNode merge(ListNode[] lists, int start, int end){
+        if(start == end) return lists[start];
+        else if(start < end){
+            int mid = start + (end-start)/2;
+            ListNode left = merge(lists, start, mid);
+            ListNode right = merge(lists, mid+1, end);
+            return mergeLists(left, right);
+        }
+        else
+            return null;
     }
-    
-    private ListNode merge(ListNode l1, ListNode l2) {
-        if (l1 == null) return l2;
-        if (l2 == null) return l1;
-        if (l1.val < l2.val) {
-            l1.next = merge(l1.next, l2);
+
+    public ListNode mergeLists(ListNode l1, ListNode l2){
+        if(l1 == null) return l2;
+        else if(l2 == null) return l1;
+        else if(l1.val < l2.val){
+            l1.next = mergeLists(l1.next, l2);
             return l1;
         }
-        l2.next = merge(l1, l2.next);
-        return l2;
+        else {
+            l2.next = mergeLists(l1, l2.next);
+            return l2;
+        }
     }
 }
 
@@ -38,34 +43,34 @@ public class Solution {
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        
+
         ListNode dummy = new ListNode(0), cur = dummy;
-        
+
         if(lists.length == 0)
             return null;
-        
+
         PriorityQueue<ListNode> minHeap = new PriorityQueue<>(lists.length, new Comparator<ListNode>(){
             public int compare(ListNode l1, ListNode l2)
             {
                 return l1.val - l2.val;
             }
         });
-        
+
         for(ListNode list : lists)
             if(list != null)
                 minHeap.offer(list);
-        
+
         while(!minHeap.isEmpty())
         {
             ListNode temp = minHeap.poll();
             cur.next = temp;
             if(temp.next != null)
-                minHeap.offer(temp.next);      
-            
+                minHeap.offer(temp.next);
+
             cur = temp;
         }
-        
-        return dummy.next;        
-        
+
+        return dummy.next;
+
     }
 }

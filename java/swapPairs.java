@@ -6,21 +6,20 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
-    public ListNode swapPairs(ListNode head) {
-        ListNode first = new ListNode(-1);
-        first.next = head;
-        
-        ListNode pre = first, cur = head;
-        
-        while(cur != null && cur.next != null)
-        {
-            pre.next = cur.next;
-            pre = cur;
-            cur = cur.next.next;
-            pre.next.next = pre;
-        }
-        pre.next = cur;
-        return first.next;
-    }
-}
+ class Solution {
+     public ListNode swapPairs(ListNode head) {
+         ListNode dummy = new ListNode(-1);
+         dummy.next = head;
+         ListNode cur = dummy;
+
+         while(cur.next != null && cur.next.next != null){
+             ListNode first = cur.next;
+             ListNode second = cur.next.next;
+             first.next = second.next;
+             second.next = cur.next;
+             cur.next = second;
+             cur = cur.next.next;
+         }
+         return dummy.next;
+     }
+ }
