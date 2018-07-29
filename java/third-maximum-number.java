@@ -1,8 +1,8 @@
 /*
 
-To start with naive approach, we can have three max variables and keep track of which is max and which is min as mentioned below.
-But this is not a good way to solve the problem because "If interviewer asks for 5th maximum number, then number of if-else will grow exponentially. lol"
-So, we can create a PriorityQueue of size 3 and keep inserting numbers by checking the root of the PQ.
+start with a naive (brute force) approach, we can have three max variables and keep track of which is max and which is min as mentioned below.
+But this is not scalable because "If interviewer asks for 50th maximum number, then number of if-else will grow exponentially. lol"
+So, we can create a PriorityQueue of size N and keep inserting numbers by checking the root of the PQ.
 
 */
 
@@ -35,7 +35,7 @@ class Solution {
         for(Integer n:nums ){
             if(! pq.contains(n) ) {
                 pq.offer(n);
-                if(pq.size() > WHICH_MAX) pq.poll();
+                if(pq.size() > WHICH_MAX) pq.poll(); 
             }
         }
         if(pq.size() < WHICH_MAX){

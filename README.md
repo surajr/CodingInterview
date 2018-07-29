@@ -56,6 +56,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./java/containsDuplicate.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | [Java](./java/summaryRanges.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [268. Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./java/missingNumber1.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](./java/moveZeros.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) | [Java](./java/sparseMultiply.java)  | _O(m*n*l)_       | _O(m*l)_          |  Medium       |         |
 | Leetcode | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./java/intersect.java)  | _O(m+n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Java](./java/canConstruct.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
