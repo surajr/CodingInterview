@@ -41,6 +41,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Website 		| Title           |  Solution    |  Time           | Space           | Difficulty    |  Note|
 |---------------- |---------------- | ----------- | --------------- | --------------- | ------------- |-----|
 | Leetcode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](./java/intToRoman.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
+| Leetcode | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./java/3sum.java)  | _O(n)_       | _O(1)_          |  Medium      |         |
 | Leetcode | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Java](./java/nextPermutation.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Java](./java/combinationSum.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
 | Leetcode | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Java](./java/combinationSumii.java)  | _O(2^n)_       | _O(1)_          |  Medium       |         |
