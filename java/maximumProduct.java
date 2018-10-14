@@ -8,6 +8,24 @@ public class Solution {
     max1 * max2 * max3 = 0
     min1 * min2 * max1 = -8 * -4 * 1 = 32 -> Return as answer
     */
+
+// Time O(NLogN) Space O(N) - Because of searching
+    public int maximumProduct(int[] nums) 
+    {
+        Arrays.sort(nums);
+        int len = nums.length - 1;
+        int end = nums[len-2] * nums[len-1] * nums[len];
+        int start = nums[0] * nums[1] * nums[len];
+        
+        return Math.max(end, start);
+    }
+}
+
+// Solution 2
+
+//Time O(N) Space O(1)
+public class Solution {
+    
     public int maximumProduct(int[] nums) 
     {
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = max1;

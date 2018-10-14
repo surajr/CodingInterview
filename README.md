@@ -114,6 +114,9 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./java/CountSubstrings.java)  | _O(n^2)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./java/repeatedStringMatch.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
 | Leetcode  | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./java/numJewelsInStones.java)  | _O(n)_       | _O(1)_          |  Easy       |         |
+| Leetcode  | [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Java](./java/shiftingLetters.java)  | _O(n)_       | _O(1)_          |  Medium       |         |
+| Leetcode  | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Java](./java/scoreOfParenthesis.java)  | _O(n)_       | _O(n)_          |  Medium       |         |
+| Leetcode  | [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Java](./java/BuddyStrings.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 
 
 ## HashMap
