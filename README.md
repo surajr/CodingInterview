@@ -125,6 +125,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 | Leetcode  | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Java](./java/Twosum.java)  | _O(n)_       | _O(n)_          |  Easy       |         |
 | Leetcode  | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./java/majorityElement.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [Java](./java/twoSum.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
+| Leetcode  | [187. Random DNA Sequence](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Java](./java/findRepeatedDnaSequences.java)  | _O(n)_       | _O(n)_          |  Medium      |         |
 | Leetcode  | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./java/containsNearbyDuplicate.java)  | _O(n)_       | _O(n)_          |  Easy      |         |
 | Leetcode  | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [Java](./java/canPermutePalindrome.java)  | _O(n)_       | _O(1)_          |  Easy      |         |
 | Leetcode  | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [Java](./java/lengthOfLongestSubstringKDistinct.java)  | _O(n)_       | _O(n)_          |  Hard      |         |
