@@ -13,7 +13,7 @@ Feel free to submit pull requests, add issues and be a contributer.
 
 On the day before interview, don't forget to review these problems. Credit to DevkaPupara
 
-* [One Stop Leetcode](https://github.com/surajr/Leetcode-oneStop.md) 
+* [One Stop Leetcode](https://github.com/surajr/CodingInterview/blob/master/Leetcode-oneStop.md) 
 
 ## Algorithms
 
