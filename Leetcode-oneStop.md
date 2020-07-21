@@ -227,8 +227,10 @@ public boolean isSymmetricRecursive(TreeNode root)
 
 private boolean helperRecursive(TreeNode x, TreeNode y)
 {
-    if (x == null || y == null)		// Base Case: Both or one is null, so true
+    if (x == null && y == null)		// Base Case: Both are null, so true
         return true;
+    if (x == null || y == null)		// Base Case: Passing above, here if any one is null, so false
+        return false;
     return (x.val == y.val && helperRecursive(x.left, y.right) && helperRecursive(x.right, y.left));
     // Check if values match and 1.left matches with the 2.right and 1.right matches with 2.left
 }
